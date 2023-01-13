@@ -1,3 +1,6 @@
+# Project Overview
+This is a program that matches adopters/fosterers with pets. It was created by Walt Jones, James Settles, Na'ama Nevo, and Simay Curray for Software Design at CC.
+Walt Jones was the sole contributer to package DBAdapter and the main contributer to the Profile package. 
 # Navigating the Database
 The Pet Adoption Database strives to streamline the process of matching adopters and fosterers to pets who need a home.
 The main menu has options to navigate to a list of profiles, creating a new profile, or viewing statistics.
